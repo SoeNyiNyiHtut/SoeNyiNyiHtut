@@ -1,22 +1,22 @@
 # Hi 👋 I'm Soe Nyi Nyi Htut
 
-🎯 Aspiring GRC Analyst | Cybersecurity Enthusiast  
-📍 Based in Chiang Mai, Thailand  
+ Aspiring GRC Analyst | Cybersecurity Enthusiast  
+ Based in Chiang Mai, Thailand  
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a cybersecurity learner focusing on Governance, Risk, and Compliance (GRC).  
 I recently completed CompTIA Security+, BTL1, Cybersecurity Governance, Risk, and Compliance(GRC)Mastery and ISO/IEC 27001:2022 Lead Auditor(GRC Mastery). Now building real-world projects to strengthen my skills.
 
-- 🔐 Interested in ISO 27001, Risk Management, and Security Operations  
-- 📚 Currently improving hands-on GRC portfolio projects  
-- 🎯 Goal: Work as a GRC / Security Analyst  
+-  Interested in ISO 27001, Risk Management, and Security Operations  
+-  Currently improving hands-on GRC portfolio projects  
+-  Goal: Work as a GRC / Security Analyst  
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 - Risk Assessment & Risk Register  
 - ISO/IEC 27001:2022  
@@ -26,7 +26,7 @@ I recently completed CompTIA Security+, BTL1, Cybersecurity Governance, Risk, an
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - CompTIA Security+  
 - Security Blue Team BTL1  
@@ -36,14 +36,14 @@ I recently completed CompTIA Security+, BTL1, Cybersecurity Governance, Risk, an
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
-- 📧 Gmail: soenyinyihtut.cybsec@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/soenyinyihtut
+-  Gmail: soenyinyihtut.cybsec@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/soenyinyihtut
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I transitioned from History graduate to Cybersecurity, building my path step by step.
 
